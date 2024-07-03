@@ -26,9 +26,7 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
-
-<<<<<<< HEAD
+# Projeto Podcast Gerado po
 📕[Clique aqui para ver](https://gossamer-cobalt-32b.notion.site/PAS-Podcast-AI-Studio-47c98f42cbdc44f7817ef9b9b4e91988)
 
 =======
@@ -107,6 +105,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
----
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
